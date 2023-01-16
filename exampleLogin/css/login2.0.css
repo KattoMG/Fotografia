@@ -1,0 +1,202 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+header {
+    color:#7A2E11;
+    font-family: monospace;
+    background-color: rgb(233, 125, 24);
+    padding-bottom: 30px;
+}
+
+nav {
+    float: unset;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a{
+    font-size: 30px;
+    font-weight: 500;
+    padding-right: 30px;
+}
+
+nav a:hover{
+    font-size: 35px;
+    color: #ff0000;
+    text-shadow: 0px 1px 8px #4BA4B3;
+} 
+
+html {
+    background-color: rgba(88, 30, 6, 0.911);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header ul li {
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+    
+
+body, html {
+    height: 100%;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #572509, 572509);
+    background-repeat: no-repeat;
+    color: rgb(236, 125, 34);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    padding-top: 15px;
+}
+
+
+.form-login{
+    width: 400px;
+    height: 340px;
+    background: #161616;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px #000000;
+    padding: 20px 30px;
+    border-top: 4px solid #db7909;
+    color: rgb(255, 0, 0);
+}
+
+.form-login h5{
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+}
+
+.controls{
+    width: 100%;
+    border: 1px solid #da8507;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: #2b2828;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.button{
+    width: 100%;
+    height: 40px;
+    background: #5d2500;
+    border: none;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.adminbutton{
+    font-size: 40px;
+    width: 100%;
+    height: 40px;
+    background: #ec7e00;
+    border: none;
+    color: #5d2200;
+    margin-bottom: 16px;
+}
+
+
+.form-login p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.form-login a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.form-login a:hover{
+    text-decoration: underline;
+}
+
+h1{
+    padding-top: 15px;
+}
+
+
+.form-login{
+    width: 400px;
+    height: 340px;
+    background: #5D432C;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px #000000;
+    padding: 20px 30px;
+    border-top: 4px solid #e05514;
+    color: rgb(211, 92, 13);
+}
+
+.form-login h5{
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+}
+
+.controls{
+    width: 100%;
+    border: 1px solid #d67900;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: #2b2828;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.button{
+    width: 100%;
+    height: 40px;
+    background: #000000;
+    border: none;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.adminbutton{
+    font-size: 40px;
+    width: 100%;
+    height: 40px;
+    background: #e05e07;
+    border: none;
+    color: #e05e07;
+    margin-bottom: 16px;
+}
+
+
+.form-login p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.form-login a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.form-login a:hover{
+    text-decoration: underline;
+}
